@@ -69,6 +69,8 @@ Diode voltage, VD = 3.3 − 2.8 = 0.5 V
 η = (VP − VD) / VBB
 η = (3.3 − 0.5) / 5 = 2.8 / 5 = 0.56
 Therefore, η = 0.56
+<img width="1011" height="612" alt="Screenshot 2026-09-08 135051" src="https://github.com/user-attachments/assets/a71ed4fc-fac9-47de-9886-c24dc585879b" />
+
 11. RESULT
 The characteristics of UJT were plotted and the intrinsic stand-off ratio was found.
 Intrinsic stand-off ratio, η = 0.56
